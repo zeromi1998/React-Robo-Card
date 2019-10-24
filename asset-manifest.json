@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Robo-Card/static/css/main.220375ba.chunk.css",
+    "main.js": "/React-Robo-Card/static/js/main.cf49f289.chunk.js",
+    "main.js.map": "/React-Robo-Card/static/js/main.cf49f289.chunk.js.map",
+    "runtime-main.js": "/React-Robo-Card/static/js/runtime-main.08bde99d.js",
+    "runtime-main.js.map": "/React-Robo-Card/static/js/runtime-main.08bde99d.js.map",
+    "static/js/2.81680560.chunk.js": "/React-Robo-Card/static/js/2.81680560.chunk.js",
+    "static/js/2.81680560.chunk.js.map": "/React-Robo-Card/static/js/2.81680560.chunk.js.map",
+    "index.html": "/React-Robo-Card/index.html",
+    "precache-manifest.cd54ac5e1a2bf453f4298228326db6ac.js": "/React-Robo-Card/precache-manifest.cd54ac5e1a2bf453f4298228326db6ac.js",
+    "service-worker.js": "/React-Robo-Card/service-worker.js",
+    "static/css/main.220375ba.chunk.css.map": "/React-Robo-Card/static/css/main.220375ba.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08bde99d.js",
+    "static/js/2.81680560.chunk.js",
+    "static/css/main.220375ba.chunk.css",
+    "static/js/main.cf49f289.chunk.js"
+  ]
+}
